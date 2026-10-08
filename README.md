@@ -2,6 +2,8 @@
 
 面向 ColorOS 17 的系统增强工具，包名 `com.daxiaamu.oplusbox`。支持 OPPO、一加、真我对应系统，使用现代 Xposed API 102，界面复用设备上的 ColorOS 系统组件。
 
+支持运行在ColorOS 16上，但功能可用性不做保证。
+
 ## 功能
 
 ### 系统增强
