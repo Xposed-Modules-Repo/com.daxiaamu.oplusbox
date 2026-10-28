@@ -73,3 +73,5 @@
 - [欧加全能工具箱](https://optool.daxiaamu.com/)
 
 本仓库提供功能介绍和发布文件，源码不在此仓库公开。
+
+[Android 开心版软件下载](https://pan.quark.cn/s/14e8a6044f77)
